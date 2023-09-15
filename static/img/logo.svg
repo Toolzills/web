@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1042" height="1042" viewBox="0 0 1042 1042">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e9dc05;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+        font-size: 666.667px;
+        fill: #ff1bd1;
+        font-family: "Eras Bold ITC";
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-1" cx="521" cy="527" rx="521" ry="513"/>
+  <text id="_4K" data-name="4K" class="cls-2" x="39" y="736">4K</text>
+</svg>
